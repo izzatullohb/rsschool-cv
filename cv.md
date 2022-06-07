@@ -7,6 +7,8 @@ email: b.izzatullo@gmail.com
 
 
 skills:
+
 -HTML
 -CSS
 -Python
+-Marketing
