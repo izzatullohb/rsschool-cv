@@ -12,3 +12,4 @@ skills:
 -CSS
 -Python
 -Marketing
+-SEO
